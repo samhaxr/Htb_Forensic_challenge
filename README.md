@@ -1,0 +1,2 @@
+# Htb_Forensic_challenge
+PersistenceIsFutile AutoPwn script
